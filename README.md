@@ -1,3 +1,15 @@
+数据来源
+https://github.com/lonnyzhang423/douyin-hot-hub?tab=readme-ov-file
+
+https://github.com/wanghaisheng/DailyHotApi/tree/master
+
+https://github.com/huqi-pr/trending-in-one
+
+读取数据，生成timeline
+
+
+
+
 # todo
 
 https://github.com/Cherry/placeholders.dev
